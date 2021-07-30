@@ -9,4 +9,4 @@ env -i PWD="/server" SHELL="/bin/bash" SHLVL=0 ./overflow-runnable
 ```
 
 ## Disclaimer
-No this is not a safe server. Please do NOT use this code as an example of how to make a TCP server.
+No this is not a secure application. Please do NOT use this code in production.
